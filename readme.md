@@ -34,3 +34,5 @@ These keys are passed between agents using templating.
 ## Output
 The system produces a file named verdict.txt containing
 the final balanced report.
+
+Note: The verdict.txt file represents the output produced by the system for the sample topic "Napoleon Bonaparte".
